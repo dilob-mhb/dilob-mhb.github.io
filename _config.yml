@@ -1,7 +1,7 @@
 # site settings
 title: DiLoB
 subtitle: MHB Fontane
-email: benjamin.senst@mhb-fontane.de
+email: dilob@mhb-fontane.de
 description: Sie suchen Unterstützung bei der Digitalisierung Ihrer Arztpraxis? Sprechen Sie uns an!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site

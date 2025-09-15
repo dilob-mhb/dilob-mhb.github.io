@@ -10,12 +10,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Inhalte</h1>
+			<h1>Digitalisierung in der Praxis</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Vorwort</h2>
-<p>„Praxis-IT“ bietet praxisorientierte Informationen und Tools, um Theorie und Praxis zu verbinden. Ziel ist es, technologische Lösungen besser zu verstehen und in der ambulanten Versorgung sinnvoll anzuwenden. Digitalisierung verändert Strukturen, Arbeitsweisen und das Verhältnis zwischen Patient:innen und Leistungserbringenden.</p>
+<h2 id="content">Überblick</h2>
+<p>Die Digitalisierung eröffnet neue Chancen für eine moderne Patientenversorgung. „Praxis-IT“ zeigt Wege auf, wie Praxen Schritt für Schritt digitale Werkzeuge einführen und damit Arbeitsabläufe vereinfachen, Kommunikation verbessern und Patient:innen stärker einbeziehen können.</p>
 
 <hr class="major" />
 

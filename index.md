@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Die Digitalisierung verändert den ambulanten Sektor des deutschen Gesundheitswesens grundlegend und bietet Chancen zur Verbesserung der Versorgungsqualität. Zugleich bestehen Herausforderungen wie technische Hürden, Inkompatibilitätsprobleme, Bedarfe an neuen Kompetenzen und die Notwendigkeit, etablierte Praxisroutinen anzupassen. Zentrale Elemente der digitalen Transformation umfassen die elektronische Patientenakte (ePA), E-Rezepte und die Telematikinfrastruktur (TI), deren verpflichtende Einführung Risiken birgt, wenn bestehende Barrieren nicht adressiert werden.

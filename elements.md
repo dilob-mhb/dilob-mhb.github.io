@@ -51,5 +51,5 @@ nav-menu: true
 <h2>Zusammenfassung</h2>
 <p>Praxis-IT zeigt: Digitalisierung ist mehr als Technik – sie betrifft Strukturen, Menschen, Kompetenzen und Recht. Praxen sollten strategisch vorgehen: Infrastruktur aufbauen, Kernsysteme implementieren, Telemedizin und Automatisierung nutzen, digitale Kompetenzen fördern und Sicherheit gewährleisten.</p>
 
-	</div>
 </section>
+</div>

@@ -1,5 +1,5 @@
 ---
-title: Digitalisierung im niedergelassenen Bereich: Chancen, Herausforderungen und Kompetenzen für die Zukunft
+title: Chancen, Herausforderungen und Kompetenzen für die Zukunft der Digitalisierung im niedergelassenen Bereich
 layout: landing
 description: 'Die Digitalisierung im ambulanten Bereich bietet Chancen, erfordert aber technische, personelle und datenschutzbezogene Kompetenzen.'
 image: assets/images/pic07.jpg
